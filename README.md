@@ -3,7 +3,7 @@ name and vice versa.
 
 # Requirements:
 
-* MediaWiki 1.30+
+* MediaWiki 1.31+
 
 # Usage
 
