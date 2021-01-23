@@ -22,7 +22,7 @@
 		]
 	},
 	"ExtensionMessagesFiles": {
-		"PageMagicMagic": "PageMagic.magic.i18n.php"
+		"PageMagicMagic": "PageMagic.i18n.magic.php"
 	},
 	"ResourceFileModulePaths": {
 		"localBasePath": "resources",
