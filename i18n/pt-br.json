@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Eduardo Addad de Oliveira"
+			"Eduardo Addad de Oliveira",
+			"Eduardoaddad"
 		]
 	},
 	"pagemagic-desc": "Adiciona algumas funções de analisador para recuperar o id da página por nome e vice-versa."
