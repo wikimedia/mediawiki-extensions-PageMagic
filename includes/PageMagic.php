@@ -35,7 +35,7 @@ class PageMagic {
 	 * @param Parser $parser
 	 * @param null $revId
 	 *
-	 * @return int
+	 * @return int|string
 	 */
 	public static function pageidfromrevisionid( Parser $parser, $revId = null ) {
 		if ( $revId === null ) {
