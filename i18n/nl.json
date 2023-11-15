@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"pagemagic-desc": "Voegt enige parserfuncties toe om de pagina-ID aan de hand van de naam op te vragen en omgekeerd."
+}
