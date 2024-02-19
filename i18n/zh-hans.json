@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anterdc99"
+		]
+	},
+	"pagemagic-desc": "添加一些解析器函数以按名称检索页面ID，反之亦然。"
+}
