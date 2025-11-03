@@ -3,8 +3,8 @@
 namespace MediaWiki\Extension\PageMagic;
 
 use MediaWiki\MediaWikiServices;
+use MediaWiki\Title\Title;
 use Parser;
-use Title;
 
 class PageMagic {
 
