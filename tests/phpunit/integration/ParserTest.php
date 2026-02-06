@@ -23,7 +23,8 @@ class ParserTest extends MediaWikiIntegrationTestCase {
 
 		$parserOptions = ParserOptions::newFromAnon();
 		$parserOutput = $parser->parse( $input, $title, $parserOptions );
-		return $parserOutput->getText( [ 'unwrap' => true ] );
+		$processed = $parserOutput->runOutputPipeline( $parserOptions, [ 'unwrap' => true ] );
+		return $processed->getContentHolderText();
 	}
 
 	public function testPageNameFromId_none() {
