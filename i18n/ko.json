@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tensama0415"
+		]
+	},
+	"pagemagic-desc": "이름으로 문서 ID를 가져오고, 반대로 문서 ID로 이름을 가져오는 몇 가지 파서 함수를 추가합니다."
+}
