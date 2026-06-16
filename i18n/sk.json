@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"pagemagic-desc": "Pridáva niekoľko funkcií syntaktického analyzátora na získanie ID stránky podľa názvu a naopak."
+}
